@@ -3,3 +3,7 @@ car = {"make" => "honda",
   "mileage" => 60000,
 
 }
+
+animal = {"is_hairy" = true
+
+}
